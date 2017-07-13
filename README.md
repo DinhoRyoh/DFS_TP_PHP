@@ -3,7 +3,9 @@
 Nom du site : GOODIES
 
 Pour le CSS du site, j'utilise UI SEMANTIC, il requiert donc le vendor de celui-ci pour le bon affichage du site.
- //   <link rel="stylesheet" type="text/css" href="vendor/semantic/semantic.min.css">
+ - link rel="stylesheet" type="text/css" href="vendor/semantic/semantic.min.css"
+ 
+ 
 Lien de semantic https://github.com/Semantic-Org/Semantic-UI-CSS/archive/master.zip
 
 Mon site devrait fonctionner Parfaitement, il n'est pas complet (Bouton "About", inutile)
